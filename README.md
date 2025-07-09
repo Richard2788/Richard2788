@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <a target="blank" href="https://m.youtube.com/channel/UCLtw4d9eKgb4Y2HzAVMDsKA">
+  <a target="_blank" href="https://m.youtube.com/channel/UCLtw4d9eKgb4Y2HzAVMDsKA">
     <img src="https://img.shields.io/static/v1?message=youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
   <a href="">
