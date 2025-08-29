@@ -33,7 +33,7 @@
 
 ###
 
-<h4 align="left">I'm Richard from Brazil 🇧🇷<br><br>- 🔭 I’m working as Sound Designer and Game Dev<br>- 📚 I'm currently learning HTML and CSS<br>- ⚡ In my free time I play games, study and make projects, how UESB game and sites</h4>
+<h4 align="left">I'm Richard from Brazil 🇧🇷<br><br>- 🔭 I’m working as Sound Designer and Game Dev<br>- 📚 I'm currently learning HTML, CSS and JS<br>- ⚡ In my free time I play games, study and make projects, how UESB game and sites</h4>
 
 ###
 
@@ -47,6 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/js/js-original.svg" height="40" width="40" alt="js logo"  />
 </div>
 
 ###
