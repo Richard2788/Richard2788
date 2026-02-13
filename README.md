@@ -39,7 +39,7 @@
 
 ###
 
-<h4 align="left">I'm Richard from Brazil 🇧🇷<br><br>- 🔭 I’m working as Sound Designer and Game Dev<br>- 📚 I'm currently learning HTML, CSS and JS<br>- ⚡ In my free time I play games, study and make projects, how UESB game and sites</h4>
+<h4 align="left">I'm Richard from Brazil 🇧🇷<br><br>- 🔭 I’m worked as Sound Designer and Game Dev<br>- 📚 I'm currently learning HTML, CSS and JS<br>- ⚡ In my free time I play games, study and make projects, how UESB game and sites</h4>
 
 ###
 
