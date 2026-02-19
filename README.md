@@ -38,6 +38,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+
 <h4 align="left">I'm Richard from Brazil 🇧🇷<br><br>- 🔭 I’m worked as Sound Designer and Game Dev<br>- 📚 I'm currently learning JS and Python<br>- 🧑‍💻 I am studying at a Technical High School specializing in Systems Development<br>- ❤️ My favorite part of the course is programming!<br>- ⚡ In my free time I play games, study and make projects, how UESB game and sites</h4>
 
 ###
